@@ -10,8 +10,11 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yusuf-tokay&show_icons=true&theme=radical)
 
 ## Projects I'm Interested In
-- [Dynamic Earthquake Map]: Confidential 😉
-- [Cointracker]: Confidential 😉
+- [brain tumor detection]: Confidential 😉
+- [sentiment analysis]: Confidential 😉
+- [Face recognition system]: Confidential 😉
+- [hospital automation]: Confidential 😉
+- [rent a car automation]: Confidential 😉
 
 ## Links
 https://www.linkedin.com/in/yusuf-tokay-95b426221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
