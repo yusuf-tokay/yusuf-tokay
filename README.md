@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Yusuf! 👋
 
-<!--
-**yusuf-tokay/yusuf-tokay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 I'm a 4rd year Software Engineering student at Fırat University.
+- 💻 I'm specializing in artificial intelligence deep learning.
+- 🌱 Currently, I'm working on projects with *React* and *Bootstrap*.
+- 📫 Contact me: yusuftokay019@gmail.com
 
-Here are some ideas to get you started:
+## My GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yusuf-tokay&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects I'm Interested In
+- [Dynamic Earthquake Map]: Confidential 😉
+- [Cointracker]: Confidential 😉
+
+## Links
+https://www.linkedin.com/in/yusuf-tokay-95b426221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
