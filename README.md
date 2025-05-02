@@ -5,6 +5,7 @@
 - 💻 I'm specializing in artificial intelligence deep learning.
 - 🌱 Currently, I'm working on projects with *React* and *Bootstrap*.
 - 📫 Contact me: yusuftokay019@gmail.com
+-  📄 [My Online CV](https://yusuf-tokay.github.io/My-Cv) — CV'mi buradan inceleyebilirsiniz.
   
 
 ## My GitHub Stats
